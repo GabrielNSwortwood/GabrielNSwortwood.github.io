@@ -90,3 +90,45 @@ When converting the code to a Maven-based project, I faced some initial difficul
 Overall, the project's progression and enhancements taught me valuable lessons in troubleshooting, database integration, and documentation. While there is still room for improvement, I am proud of the progress I've made in this project, and I appreciate the opportunity to tackle such a substantial task.
 
 In summary, the iterative process of enhancing and modifying the artifact allowed me to gain a deeper understanding of Java, problem-solving, and database integration. The challenges I encountered helped me grow as a developer and reinforced the importance of continuous improvement and thoughtful design.
+
+# **Skills learned from this project as a whole:**
+
+1. Operating Systems Concepts: 
+
+Understanding virtual memory simulation requires a strong grasp of operating systems principles like paging, segmentation, memory hierarchy, demand paging, page replacement algorithms, and memory management units.
+
+2. Memory Management: 
+
+Knowledge of memory management techniques, including how virtual memory is mapped to physical memory, handling page faults, and ensuring efficient memory utilization.
+
+3. Programming Languages: 
+
+Proficiency in the programming language "Jav"a used to implement a memory management system.
+
+4. Data Structures: 
+
+Understanding of data structures such as linked lists, page tables, and various data structures used in memory management.
+
+5. Algorithms: 
+
+Knowledge of page replacement algorithms (e.g., LRU - Least Recently Used, FIFO - First In First Out, etc.), and the ability to analyze and implement efficient algorithms for managing memory.
+
+6. Debugging and Troubleshooting: 
+
+The ability to identify and fix memory-related issues like segmentation faults, memory leaks, and other memory-related bugs.
+
+7. Documentation: 
+
+Creating clear and concise documentation to explain the design, implementation, and usage of the memory manager.
+
+8. Problem-Solving Skills: 
+
+Developing a virtual memory manager involves dealing with complex problems related to memory management, page replacement algorithms, and handling page faults. This requires strong analytical and problem-solving abilities to design efficient and effective solutions.
+
+9. Memory Optimization and Efficiency: 
+
+An effective virtual memory manager should optimize memory usage and access times. Demonstrating an understanding of memory efficiency and the ability to optimize performance is important.
+
+10. Version Control:
+
+While my version control is not upheld in pictures, I did manage to explain in each file the changes done to them and they can be further updated as the program needs.
