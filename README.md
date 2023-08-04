@@ -1,4 +1,6 @@
-# GabrielNSwortwood.github.io
+# Virtual Memory Manager Learning Tool
+# Authored by: Abraham Silberschatz, Peter B. Galvin, and Greg Gagne
+# Modified by: Gabriel Nathaniel Swortwood
 
 What is this program?
 
