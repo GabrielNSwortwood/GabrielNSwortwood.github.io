@@ -57,8 +57,8 @@ All regards should be given to: "Abraham Silberschatz, Peter B. Galvin, and Greg
 
 My beginning code review when I started the project -
 
-!Watch the video
-===> (https://img.www.youtube.com/watch?v=ow0l32nFSuA.jpg)](https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=ow0l32nFSuA) <===
+Watch the video
+(https://img.www.youtube.com/watch?v=ow0l32nFSuA.jpg)](https://youtu.be/nTQUwghvy5Q](https://www.youtube.com/watch?v=ow0l32nFSuA)
 
 ## **Artifact:** 
 IT 365: Operating Environments - Virtual Memory Manager
