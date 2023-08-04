@@ -2,7 +2,7 @@
 # Authored by: Abraham Silberschatz, Peter B. Galvin, and Greg Gagne
 # Modified by: Gabriel Nathaniel Swortwood
 
-#**Profession Assessment:**
+# **Profession Assessment:**
 
 ## **1. Introduction:**
 
