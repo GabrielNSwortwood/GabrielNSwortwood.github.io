@@ -38,13 +38,13 @@ The ePortfolio contains specific examples, such as project documentation and cod
 
 ## **What is this program?**
 
-Virtual Memory Manager, it from IT365 it uses software to handle the load to accommodate tasks for physical memory shortages. It came from the book "Operating System Concepts with Java - Eighth Edition" by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
+Virtual Memory Manager, it from IT365 it uses software to handle the load to accommodate tasks for physical memory shortages. It came from the book "Operating System Concepts with Java - Eighth Edition" by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne. 
 
-The classes together work to form a virtual memory simulation allowing users to perform address translation for virtual memory addresses and generate the needed statistics about the entire process of address translation.
+The classes work together to form a virtual memory simulation allowing users to perform address translation for virtual memory addresses and generate the needed statistics about the entire process of address translation.
 
 ## **Why I selected it?**
 
-I selected this project because memory holds great importance to me, both in reality and in the context of computing. Working memory is essential in daily life, and this project provided an opportunity to explore and understand memory/address translation concepts. Engaging with this project has served as an excellent learning tool, allowing me to practice and gain insights into memory systems.
+I selected this project because memory holds significant importance to me, both in the context of computing. Working memory is essential in daily life, and this project provided an opportunity to explore and understand memory/address translation concepts. Engaging with this project has served as an excellent learning tool, allowing me to practice and gain insights into memory systems. 
 
 Working on this project has been a rewarding experience, boosting my confidence in coding and providing valuable knowledge about memory functioning. I find it fulfilling to better myself as a person by comprehending how memory works and discovering ways to apply this knowledge in future job opportunities or personal projects. While the original code was not mine, I have significantly altered it, and this process has been a great way to enhance my coding skills and explore my interests.
 
