@@ -1,0 +1,10 @@
+com\mycompany\vm\Frame.class
+com\mycompany\vm\Address$PageSizeInfo.class
+com\mycompany\vm\MongoDBManager.class
+com\mycompany\vm\PageTableEntry.class
+com\mycompany\vm\VM.class
+MakeBACKING_STORE.class
+com\mycompany\vm\AddressInfo.class
+com\mycompany\vm\MemoryManager.class
+com\mycompany\vm\Address.class
+com\mycompany\vm\TLBEntry.class

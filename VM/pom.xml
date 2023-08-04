@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    
+    <groupId>com.mycompany.vm</groupId>
+    <artifactId>VM</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    
+    <!-- Update the Java version to at least 9 -->
+    <properties>
+        <maven.compiler.source>9</maven.compiler.source>
+        <maven.compiler.target>9</maven.compiler.target>
+    </properties>
+    
+    <dependencies>
+        <!-- MongoDB Java Driver -->
+        <dependency>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongo-java-driver</artifactId>
+            <version>3.12.10</version> <!-- Replace with the latest version available -->
+        </dependency>
+    </dependencies>
+    
+    <build>
+        <plugins>
+            <!-- Maven Compiler Plugin -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.10.1</version> <!-- Use the version you prefer, or make sure it's already defined -->
+                <configuration>
+                    <!-- Update the Java version to at least 9 -->
+                    <source>9</source> <!-- Replace with the appropriate Java version (e.g., 9, 11, 15, etc.) -->
+                    <target>9</target> <!-- Replace with the appropriate Java version (e.g., 9, 11, 15, etc.) -->
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
+
