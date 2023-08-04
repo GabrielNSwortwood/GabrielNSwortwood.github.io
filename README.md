@@ -2,6 +2,12 @@
 # Authored by: Abraham Silberschatz, Peter B. Galvin, and Greg Gagne
 # Modified by: Gabriel Nathaniel Swortwood
 
+#**Profession Assessment:**
+
+## **1. Introduction:**
+
+## **2. Summary:**
+
 ## **What is this program?**
 
 Virtual Memory Manager, it from IT365 it uses software to handle the load to accommodate tasks for physical memory shortages. It came from the book "Operating System Concepts with Java - Eighth Edition" by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne.
@@ -56,4 +62,3 @@ When converting the code to a Maven-based project, I faced some initial difficul
 Overall, the project's progression and enhancements taught me valuable lessons in troubleshooting, database integration, and documentation. While there is still room for improvement, I am proud of the progress I've made in this project, and I appreciate the opportunity to tackle such a substantial task.
 
 In summary, the iterative process of enhancing and modifying the artifact allowed me to gain a deeper understanding of Java, problem-solving, and database integration. The challenges I encountered helped me grow as a developer and reinforced the importance of continuous improvement and thoughtful design.
-
