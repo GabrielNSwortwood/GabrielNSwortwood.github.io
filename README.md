@@ -28,7 +28,7 @@ Artifact: IT 365: Operating Environments - Virtual Memory Manager
 
 My reflection changes as the project continues onward throughout the development, here are my base reflections:
 
-**Milestone Two:**
+## **Milestone Two:**
 
 During the initial phase of the project, I encountered several challenges while working with Java. I had to troubleshoot various errors, which allowed me to learn more about implementing functionality and using try-catch blocks effectively. Additionally, I discovered that relying on booleans alone might not resolve certain issues. While working with floating-point assignments, I realized that they have their place, especially when handling mathematical operations, but they should be used judiciously.
 
@@ -36,7 +36,7 @@ As I progressed, I found that it was okay for the code to break occasionally, as
 
 Overall, this phase was a valuable learning experience. I gained insights into identifying and learning from mistakes, embracing trial and error, and leveraging my foundational Java knowledge. I understood that small improvements, no matter how minor, contribute to the overall progress of the project.
 
-# **Milestone Three:**
+## **Milestone Three:**
 
 As the project continued, my familiarity with Java increased, and I began to recall specific language conventions, such as naming constructors similarly to the class name. However, I faced numerous challenges during this phase, including problem-solving, documenting my intent, handling errors, refactoring code for better readability, considering design patterns, understanding the existing codebase, and adhering to best practices and standards.
 
@@ -44,7 +44,7 @@ Understanding the project's intent posed a significant challenge since I wasn't 
 
 Throughout this phase, I recognized that the project's complexity made me question if it was user-friendly. It pushed me to explore alternative solutions and consider multiple possibilities rather than settling for simplistic answers.
 
-# **Milestone Four:**
+## **Milestone Four:**
 
 The final phase presented a new set of challenges, especially when integrating the code with MongoDB. I had limited exposure to MongoDB in the past, and thus, I had to invest time in understanding its intricacies. Setting up the database required additional tools like a separate server and compass, which was a learning experience in itself.
 
