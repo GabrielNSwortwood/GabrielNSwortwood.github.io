@@ -21,7 +21,8 @@ All regards should be given to: "Abraham Silberschatz, Peter B. Galvin, and Greg
 
 
 
-Artifact: IT 365: Operating Environments - Virtual Memory Manager
+## **Artifact:** 
+IT 365: Operating Environments - Virtual Memory Manager
 
 
 ## **Reflection:**
