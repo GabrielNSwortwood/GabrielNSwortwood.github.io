@@ -10,9 +10,11 @@ The classes together work to form a virtual memory simulation allowing users to 
 
 ## **Why I selected it?**
 
-The why I selected the project is more in line with how I feel as a person, memory is a precious thing to me. Both reality and in my computer, I feel having working memory is needed in day to day life. With exploring this project I began to understand more and more what it does. It is a great learning tool to practice with and learn about how memory/address translation works. I feel a bit not creative enough with my own endeavors but this project has made me feel a bit better about exploring myself on coding.
+I selected this project because memory holds great importance to me, both in reality and in the context of computing. Working memory is essential in daily life, and this project provided an opportunity to explore and understand memory/address translation concepts. Engaging with this project has served as an excellent learning tool, allowing me to practice and gain insights into memory systems.
 
-I chose this artifact to better myself as a person as understanding as to how memory works and how I can apply that logic/knowledge for a later job opportunity or even something I can work on or even share with people. As the original code is not mine, I have just altered a large portion of it.
+Working on this project has been a rewarding experience, boosting my confidence in coding and providing valuable knowledge about memory functioning. I find it fulfilling to better myself as a person by comprehending how memory works and discovering ways to apply this knowledge in future job opportunities or personal projects. While the original code was not mine, I have significantly altered it, and this process has been a great way to enhance my coding skills and explore my interests.
+
+In summary, the project has not only deepened my understanding of memory-related concepts but has also encouraged me to be more creative and explorative in my coding journey. I see it as an opportunity to acquire valuable knowledge that I can apply both in professional endeavors and when sharing my work with others.
 
 All regards should be given to: "Abraham Silberschatz, Peter B. Galvin, and Greg Gagne."
 
