@@ -2,11 +2,11 @@
 # Authored by: Abraham Silberschatz, Peter B. Galvin, and Greg Gagne
 # Modified by: Gabriel Nathaniel Swortwood
 
-# **Profession Assessment:**
+## **Profession Assessment:**
 
-## **1. Introduction:**
+##### **1. Introduction:**
 
-## **2. Summary:**
+##### **2. Summary:**
 
 ## **What is this program?**
 
