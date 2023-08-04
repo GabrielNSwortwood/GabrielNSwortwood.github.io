@@ -13,3 +13,8 @@ The why I selected the project is more in line with how I feel as a person, memo
 I chose this artifact to better myself as a person as understanding as to how memory works and how I can apply that logic/knowledge for a later job opportunity or even something I can work on or even share with people. As the original code is not mine, I have just altered a large portion of it.
 
 All regards should be given to: "Abraham Silberschatz, Peter B. Galvin, and Greg Gagne."
+
+
+Informal Code Review:
+
+[![IMAGE ALT TEXT HERE](https://img.www.youtube.com/watch?v=-2zk99wL_-4.jpg)](https://www.youtube.com/watch?v=-2zk99wL_-4)
