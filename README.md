@@ -6,7 +6,35 @@
 
 ##### **1. Introduction:**
 
+Hello, I am Gabriel Nathaniel Swortwood a computer science major, for my capstone (Comptuer Science 499) and the whole of the computer science program I have gained valuable insights and skills relating to what I have learned. These skills list the following: operating systems, software development, algorithms/data structures, networking, security, database management, object-orientated programming, software testing with quality assurance, and more.
+
+Specifically speaking with the Virtual Memory Manager simulation I have shown skills in algorithms/data structures, memory management, security, database management, software design, and object-orientated programming. With the development of my ePortfolio has been instrumental in presenting a comprehensive view of my abilities and readiness to thrive in the computer science field. As I reflect on my journey, I find that specific aspects of the program have significantly contributed to my growth and preparedness for future challenges.
+
+**Collaborating in a team environment:** 
+
+One of the crucial skills I have developed is the ability to collaborate effectively in a team environment. In a project that focused on building collaborative environments in computer science, I was able to identify strategies for enabling diverse audiences to support organizational decision-making. Sadly, I didn't really have any peers to work with the project but I do leave the code as an open repository for those to commit, comment, and converse about what needs improvement.
+
+**Communicating to stakeholders:** 
+
+Clear and coherent communication is essential in any professional setting. Throughout the program, I honed my oral, written, and visual communication skills. An example of this is demonstrated in my code documentation improvements, where I provided comprehensive explanations of code functionality and purpose, making it easier for stakeholders to understand the code and its implications within larger projects.
+
+**Data structures and algorithms:**
+
+Mastery of data structures and algorithms is fundamental to solving complex computing problems. In my coursework, I successfully designed and evaluated computing solutions that addressed specific problems using algorithmic principles. I made significant improvements to code readability, error handling, and organization, thereby managing the trade-offs involved in design choices.
+
+**Software engineering and database:**
+
+The program also equipped me with software engineering and database skills. Through a virtual memory simulator project, I demonstrated my ability to implement computer solutions that deliver value and accomplish industry-specific goals. Additionally, I developed a class called MongoDBManager to handle interactions with a MongoDB database, showcasing my proficiency in database management and software design.
+
+**Security:**
+
+Developing a security mindset is of utmost importance in the computer science field. In my virtual memory simulator project, I prioritized security considerations, ensuring the program's integrity and privacy of data and resources. While the code showed good security practices, I remain vigilant about potential vulnerabilities and acknowledge the need for continuous improvement in this area.
+
 ##### **2. Summary:**
+
+The artifacts presented in my ePortfolio collectively showcase the full range of my computer science talents and abilities. They highlight my growth in collaborating within a team, communicating technical concepts effectively, designing efficient data structures and algorithms, developing professional-quality software solutions, and maintaining a security-oriented approach in all endeavors.
+
+The ePortfolio contains specific examples, such as project documentation and code samples, which demonstrate how I have met course objectives and made progress in each aspect of computer science. This artifact provides concrete evidence of my skills and competencies, reinforcing my readiness to enter or enhance my employability in the computer science field.
 
 ## **What is this program?**
 
