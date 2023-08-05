@@ -10,6 +10,8 @@ Hello, I am Gabriel Nathaniel Swortwood a computer science major, for my capston
 
 Specifically speaking with the Virtual Memory Manager simulation, I have shown skills in algorithms/data structures, memory management, security, database management, software design, and object-orientated programming. With the development of my ePortfolio has been instrumental in presenting a comprehensive view of my abilities and readiness to thrive in the computer science field. As I reflect on my journey, I find that specific aspects of the program have significantly contributed to my growth and preparedness for future challenges.
 
+Also, I've added the "original" unedited files of the project to compare side by side if needed. It is labeled "Virtual Memory Manager (original)" for those who want to compared the changes from the old vs new files.
+
 **Collaborating in a team environment:** 
 
 One of the crucial skills I have developed is the ability to collaborate effectively in a team environment. In a project that focused on building collaborative environments in computer science, I was able to identify strategies for enabling diverse audiences to support organizational decision-making. Sadly, I didn't really have any peers to work with the project, but I do leave the code as an open repository for those to commit, comment, and converse about what needs improvement.
