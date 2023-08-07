@@ -161,7 +161,7 @@ The program also equipped me with software engineering and database skills. Thro
 
 Developing a security mindset is of utmost importance in the computer science field. In my virtual memory simulator project, I prioritized security considerations, ensuring the program's integrity and privacy of data and resources. While the code showed good security practices, I remain vigilant about potential vulnerabilities and acknowledge the need for continuous improvement in this area.
 
-## &Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources&
+## *Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources*
 
 ##### Does the student demonstrate the ability to address potential design flaws in software architecture during the requirements phase?**
 
