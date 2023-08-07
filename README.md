@@ -34,7 +34,7 @@ Developing a security mindset is of utmost importance in the computer science fi
 
 Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
-    Does the student demonstrate the ability to address potential design flaws in software architecture during the requirements phase?
+    **Does the student demonstrate the ability to address potential design flaws in software architecture during the requirements phase?**
 
       The code implemented includes the use of exception handling and error messages to handle various scenarios.
 
@@ -42,23 +42,23 @@ Develop a security mindset that anticipates adversarial exploits in software arc
 
       The use try-catch blocks to handle exceptions during MongoDB interactions and file operations.
 
-    Does the student demonstrate the ability to find and eradicate security vulnerabilities or bugs?
+    **Does the student demonstrate the ability to find and eradicate security vulnerabilities or bugs?**
 
       There is consideration for potential exceptions and uses exception handling to handle errors in the code.
 
       I address potential issues related to invalid page sizes and improper MongoDB interactions through validation and error handling.
 
-    Does the student demonstrate the ability to define an approach that ensures all data are explicitly validated?
+    **Does the student demonstrate the ability to define an approach that ensures all data are explicitly validated?**
 
       The code demonstrates explicit validation by checking command-line arguments for page size and address, and input for desired virtual address count.
 
       Also validate page sizes for being positive powers of 2 and handle potential NumberFormatException while parsing input data.
 
-    Does the student demonstrate the ability to consider future changes to objects and classes?
+    **Does the student demonstrate the ability to consider future changes to objects and classes?
 
-      While the code doesn't explicitly mention considering future changes, the use of well-structured methods and classes allows for potential modifications with a clear structure.
+      While the code doesn't explicitly mention considering future changes, the use of well-structured methods and classes allows for potential modifications with a clear structure.**
 
-    Does the student demonstrate the ability to discuss experiences and best practices in developing a security mindset?
+    **Does the student demonstrate the ability to discuss experiences and best practices in developing a security mindset?**
 
       The incorporation error handling, input validation, and careful handling of resources such as files and databases, which are best practices for security.
 
