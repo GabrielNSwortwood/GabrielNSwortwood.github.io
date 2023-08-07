@@ -34,7 +34,7 @@ Developing a security mindset is of utmost importance in the computer science fi
 
 Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
-    **Does the student demonstrate the ability to address potential design flaws in software architecture during the requirements phase?**
+    #Does the student demonstrate the ability to address potential design flaws in software architecture during the requirements phase?**
 
       The code implemented includes the use of exception handling and error messages to handle various scenarios.
 
