@@ -16,7 +16,7 @@ Also, I've added the "original" unedited files of the project to compare side by
 
 One of the crucial skills I have developed is the ability to collaborate effectively in a team environment. In a project that focused on building collaborative environments in computer science, I was able to identify strategies for enabling diverse audiences to support organizational decision-making. Sadly, I didn't really have any peers to work with the project, but I do leave the code as an open repository for those to commit, comment, and converse about what needs improvement.
 
-##### Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+## *Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science*
 
 ##### Does the student demonstrate the ability to use interaction to create code-review experiences?
 
@@ -58,7 +58,7 @@ One of the crucial skills I have developed is the ability to collaborate effecti
 
 Clear and coherent communication is essential in any professional setting. Throughout the program, I honed my oral, written, and visual communication skills. An example of this is demonstrated in my code documentation improvements, where I provided comprehensive explanations of code functionality and purpose, making it easier for stakeholders to understand the code and its implications within larger projects.
 
-##### Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+## *Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts*
 
 ##### Does the student demonstrate the ability to communicate a code review effectively through collaborative environments?
 
@@ -91,7 +91,7 @@ Clear and coherent communication is essential in any professional setting. Throu
 
 Mastery of data structures and algorithms is fundamental to solving complex computing problems. In my coursework, I successfully designed and evaluated computing solutions that addressed specific problems using algorithmic principles. I made significant improvements to code readability, error handling, and organization, thereby managing the trade-offs involved in design choices.
 
-##### Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+## *Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices*
 
 ##### Does the student demonstrate the ability to use pseudocode to segment functionality in software and make design trades?
 
@@ -120,7 +120,7 @@ Mastery of data structures and algorithms is fundamental to solving complex comp
 
 The program also equipped me with software engineering and database skills. Through a virtual memory simulator project, I demonstrated my ability to implement computer solutions that deliver value and accomplish industry-specific goals. Additionally, I developed a class called MongoDBManager to handle interactions with a MongoDB database, showcasing my proficiency in database management and software design.
 
-## Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+## *Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals*
 
 ##### Does the student demonstrate the ability to employ iterative testing techniques in the code?
 
