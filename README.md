@@ -16,25 +16,154 @@ Also, I've added the "original" unedited files of the project to compare side by
 
 One of the crucial skills I have developed is the ability to collaborate effectively in a team environment. In a project that focused on building collaborative environments in computer science, I was able to identify strategies for enabling diverse audiences to support organizational decision-making. Sadly, I didn't really have any peers to work with the project, but I do leave the code as an open repository for those to commit, comment, and converse about what needs improvement.
 
+# Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+
+# Does the student demonstrate the ability to use interaction to create code-review experiences?
+
+      Through the submission of code, it displays the ability to engage in code-review questions/experiences.
+
+      Since code was actively shared, request along with incorporation of feedback, making improvements based on suggestions.
+
+      Demonstrates a willingness to collaborate and improve quality of code and structure based on interaction.
+    
+# Does the student demonstrate the ability to understand code reviews individually and within a team environment?
+
+      From the submission of code, it demonstrates the understanding of code reviews, from the mindset of individual and team responsibilities.
+
+      Incoporation of code reviewing is an essential part of the development process, making it heavily aware that the benefits of collaborative code assessment.
+       
+# Does the student demonstrate the ability to provide contextual, in-code comments that result in easily readable and understandable code?
+
+      There are in-code provided comments that enhance the readability and understanding of the modified code.
+
+      The code files include explanatory comments that clarify purpose, functionality, intent, and logic of various code segments.
+
+      This kind of approach is necessary for effective collaboration by ensuring that others can comprehend and contribute to a codebase.
+    
+# Does the student demonstrate the ability to support decision making for software design stakeholders?
+
+      Through submission of the code it has been demonstrated that there is a mindset for decision making for software design stakeholders.
+
+      Considerations were taken for modularity, maintainability, and adherence to best practices, this indicates that there was awareness to impacts of decisions on design stakeholders ideas.
+    
+# Does the student demonstrate the ability to discuss experiences and best practices working in collaborative environments?
+
+      Based on the relative information, the code with it's interactions suggest that the understanding of best practices and experiences in collaborative environments.
+
+      The code comments interactions with the code review, adherence to established coding standards (in Java) showcase the readiness to engage in discussion about coding practices and share experiences to         contribute collective knowledge.
+    
+
+
 **Communicating to stakeholders:** 
 
 Clear and coherent communication is essential in any professional setting. Throughout the program, I honed my oral, written, and visual communication skills. An example of this is demonstrated in my code documentation improvements, where I provided comprehensive explanations of code functionality and purpose, making it easier for stakeholders to understand the code and its implications within larger projects.
+
+# Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+
+# Does the student demonstrate the ability to communicate a code review effectively through collaborative environments?
+
+     The code is effectively communicated from the code review by providing detailed explanations, suggestions, and potential improvements for each class file.
+     
+     There are highlights security concerns, points out areas for optimization, and offers clear feedback on coding style and best practices.
+     
+     The use of comments, annotations, and explanations demonstrates a thorough understanding of the code and its nuances.
+    
+# Does the student demonstrate the ability to discuss experiences and best practices in communication?
+
+      Based on the code review and the files, it is demonstrated that it reflects a high-level view of professionalism and understanding of best practices in code review communication.
+    
+# Does the student demonstrate the ability to communicate appropriately to specific audiences and contexts?
+
+      Based on the contents of the code review, one can conclude that the code adheres correctly with context that is coherent and technically sound. 
+      
+      Explanations and suggestions are tailored to an audience with technical knowledge, this makes the content more relevant and appropriate for any fellow developer or coder familiar with such concepts.
+    
+# Does the student demonstrate the ability to clearly convey his or her ideas and explain his or her thought process through written, visual, or oral communication?
+
+       In the code it is conveyed that ideas and processes are written through the communcation of documentation and header files. 
+       
+       There is comments, annotations, and explanations based off the code review, given that the information was well structured and defined beforehand.
+
+       During the process and development of modifications for the program, I tried to develop a security concern mindset for the files, suggest improvements, and explain concepts while demonstrating subject        matter.
+
 
 **Data structures and algorithms:**
 
 Mastery of data structures and algorithms is fundamental to solving complex computing problems. In my coursework, I successfully designed and evaluated computing solutions that addressed specific problems using algorithmic principles. I made significant improvements to code readability, error handling, and organization, thereby managing the trade-offs involved in design choices.
 
+# Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+
+# Does the student demonstrate the ability to use pseudocode to segment functionality in software and make design trades?
+
+    The use of employed pseudocode somewhat throughout the code examples, clearly segmenting and describing the functionality of each component.
+    
+    Design trade-offs are apparent in the handling of data structures, file I/O, and database interactions. For example, choosing between different page sizes and addressing schemes shows consideration of        trade-offs in memory management.
+    
+# Does the student demonstrate the ability to program solutions to solve logic problems and implement them in software?
+
+    The code demonstrates a strong ability to program solutions to complex logic problems, evident in the implementation of memory management, address translation, and statistics generation.
+
+    Solutions are well-structured, follow coding best practices, and handle various scenarios, such as file reading, database interactions, and translation errors.
+    
+# Does the student demonstrate the ability to clearly articulate approaches to solving complex logic problems inherent software?
+
+    In the code it effectively articulates approaches to solving complex logic problems inherent in the software. Detailed comments, documentation, and variable naming contribute to the clarity of the            implementation.
+
+    Concepts like address translation, memory management, and statistics generation are explained logically, allowing readers to understand the underlying thought process.
+    
+# Does the student demonstrate the ability to discuss experiences and best practices in designing and evaluating computing solutions?
+
+    While it isn't discussed, the code quality and usage of design patterns (such as using classes for encapsulation) suggest an understanding of best practices.
+
+
 **Software engineering and database:**
 
 The program also equipped me with software engineering and database skills. Through a virtual memory simulator project, I demonstrated my ability to implement computer solutions that deliver value and accomplish industry-specific goals. Additionally, I developed a class called MongoDBManager to handle interactions with a MongoDB database, showcasing my proficiency in database management and software design.
+
+# Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+
+   Does the student demonstrate the ability to employ iterative testing techniques in the code?
+
+      The cose has the use of employed unit testing, however, it did not make it to the "finalized" (meaning the last module) state of this project, and I did not save the methods sadly.
+
+      Though the code suggests that the I was attentive to potential issues and I am employing techniques to ensure the code's reliability. 
+      
+      The modifications made, such as error handling improvements and enhanced input handling, indicate a focus on robustness and quality. 
+      
+   Does the student demonstrate the ability to use the software development life cycle to create realistic production schedules for software projects?
+
+      The project doesn't really at least from an outside perspective lend any idea to the software development life cycle, as I did mostly this on a private repository making changes. 
+       
+      However, one can compare changes between the old files and the new files based on the information in each of the header files explaining changes that were done to each explicit file.
+         
+   Does the student demonstrate the ability to create industry-standard software designs?
+
+      The code provides various classes with clear responsibilities and encapsulation.
+
+      In the header file of each class it better explains what the class function is and how it achieves it based on my "intent".
+
+      I follow based on Java coding practices what would be an industry standard from what I have observed.
+       
+   Does the student discuss experiences and best practices in using well-founded and innovative techniques, skills, and tools in computing practices?
+
+      Based on each of the header files (where it varies) most of them seem to be in consideration that there is an understanding of practical considerations and best practices in software development.
+
+      This is based off examples such as VM with input handling enhancements, and use of Path and File classes for its operations.
+      
+   Does the student create more robust and efficient code to deliver value and accomplish industry-specific goals?
+
+       The code does demonstrate from what I have modified to implement the idea of a Virtual memory simulation and address translaiton process, especially to that of using MongoDB as a query language. 
+
+       The headers of the programs files do indicate modifications, including performance, separation of concerns (for that of VM and MemoryManager), error handling, and more. These changes focus on creating        more robust code and structure for the program.
+
 
 **Security:**
 
 Developing a security mindset is of utmost importance in the computer science field. In my virtual memory simulator project, I prioritized security considerations, ensuring the program's integrity and privacy of data and resources. While the code showed good security practices, I remain vigilant about potential vulnerabilities and acknowledge the need for continuous improvement in this area.
 
-Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+# Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
-    **Does the student demonstrate the ability to address potential design flaws in software architecture during the requirements phase?**
+   Does the student demonstrate the ability to address potential design flaws in software architecture during the requirements phase?**
 
       The code implemented includes the use of exception handling and error messages to handle various scenarios.
 
@@ -42,7 +171,7 @@ Develop a security mindset that anticipates adversarial exploits in software arc
 
       The use try-catch blocks to handle exceptions during MongoDB interactions and file operations.
 
-    **Does the student demonstrate the ability to find and eradicate security vulnerabilities or bugs?**
+   Does the student demonstrate the ability to find and eradicate security vulnerabilities or bugs?**
 
       There is consideration for potential exceptions and uses exception handling to handle errors in the code.
 
@@ -54,11 +183,11 @@ Develop a security mindset that anticipates adversarial exploits in software arc
 
       Also validate page sizes for being positive powers of 2 and handle potential NumberFormatException while parsing input data.
 
-    **Does the student demonstrate the ability to consider future changes to objects and classes?
+   Does the student demonstrate the ability to consider future changes to objects and classes?
 
       While the code doesn't explicitly mention considering future changes, the use of well-structured methods and classes allows for potential modifications with a clear structure.**
 
-    **Does the student demonstrate the ability to discuss experiences and best practices in developing a security mindset?**
+   Does the student demonstrate the ability to discuss experiences and best practices in developing a security mindset?**
 
       The incorporation error handling, input validation, and careful handling of resources such as files and databases, which are best practices for security.
 
