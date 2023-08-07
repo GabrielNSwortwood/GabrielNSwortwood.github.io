@@ -32,6 +32,38 @@ The program also equipped me with software engineering and database skills. Thro
 
 Developing a security mindset is of utmost importance in the computer science field. In my virtual memory simulator project, I prioritized security considerations, ensuring the program's integrity and privacy of data and resources. While the code showed good security practices, I remain vigilant about potential vulnerabilities and acknowledge the need for continuous improvement in this area.
 
+Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+    Does the student demonstrate the ability to address potential design flaws in software architecture during the requirements phase?
+
+      The code implemented includes the use of exception handling and error messages to handle various scenarios.
+
+      Implementation of input validation for page sizes, validating that there are positive powers of 2.
+
+      The use try-catch blocks to handle exceptions during MongoDB interactions and file operations.
+
+    Does the student demonstrate the ability to find and eradicate security vulnerabilities or bugs?
+
+      There is consideration for potential exceptions and uses exception handling to handle errors in the code.
+
+      I address potential issues related to invalid page sizes and improper MongoDB interactions through validation and error handling.
+
+    Does the student demonstrate the ability to define an approach that ensures all data are explicitly validated?
+
+      The code demonstrates explicit validation by checking command-line arguments for page size and address, and input for desired virtual address count.
+
+      Also validate page sizes for being positive powers of 2 and handle potential NumberFormatException while parsing input data.
+
+    Does the student demonstrate the ability to consider future changes to objects and classes?
+
+      While the code doesn't explicitly mention considering future changes, the use of well-structured methods and classes allows for potential modifications with a clear structure.
+
+    Does the student demonstrate the ability to discuss experiences and best practices in developing a security mindset?
+
+      The incorporation error handling, input validation, and careful handling of resources such as files and databases, which are best practices for security.
+
+      The code uses try-catch blocks to handle exceptions and provides informative error messages, reflecting a security-conscious approach.
+
 ##### **2. Summary:**
 
 The artifacts presented in my ePortfolio collectively showcase the full range of my computer science talents and abilities. They highlight my growth in collaborating within a team, communicating technical concepts effectively, designing efficient data structures and algorithms, developing professional-quality software solutions, and maintaining a security-oriented approach in all endeavors.
