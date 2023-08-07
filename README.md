@@ -18,7 +18,7 @@ One of the crucial skills I have developed is the ability to collaborate effecti
 
 # Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
 
-# Does the student demonstrate the ability to use interaction to create code-review experiences?
+##### Does the student demonstrate the ability to use interaction to create code-review experiences?
 
       Through the submission of code, it displays the ability to engage in code-review questions/experiences.
 
@@ -26,13 +26,13 @@ One of the crucial skills I have developed is the ability to collaborate effecti
 
       Demonstrates a willingness to collaborate and improve quality of code and structure based on interaction.
     
-# Does the student demonstrate the ability to understand code reviews individually and within a team environment?
+##### Does the student demonstrate the ability to understand code reviews individually and within a team environment?
 
       From the submission of code, it demonstrates the understanding of code reviews, from the mindset of individual and team responsibilities.
 
       Incoporation of code reviewing is an essential part of the development process, making it heavily aware that the benefits of collaborative code assessment.
        
-# Does the student demonstrate the ability to provide contextual, in-code comments that result in easily readable and understandable code?
+##### Does the student demonstrate the ability to provide contextual, in-code comments that result in easily readable and understandable code?
 
       There are in-code provided comments that enhance the readability and understanding of the modified code.
 
@@ -40,13 +40,13 @@ One of the crucial skills I have developed is the ability to collaborate effecti
 
       This kind of approach is necessary for effective collaboration by ensuring that others can comprehend and contribute to a codebase.
     
-# Does the student demonstrate the ability to support decision making for software design stakeholders?
+##### Does the student demonstrate the ability to support decision making for software design stakeholders?
 
       Through submission of the code it has been demonstrated that there is a mindset for decision making for software design stakeholders.
 
       Considerations were taken for modularity, maintainability, and adherence to best practices, this indicates that there was awareness to impacts of decisions on design stakeholders ideas.
     
-# Does the student demonstrate the ability to discuss experiences and best practices working in collaborative environments?
+##### Does the student demonstrate the ability to discuss experiences and best practices working in collaborative environments?
 
       Based on the relative information, the code with it's interactions suggest that the understanding of best practices and experiences in collaborative environments.
 
