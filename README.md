@@ -4,7 +4,7 @@
 
 ## **Profession Assessment:**
 
-##### **1. Introduction:**
+##### **Introduction:**
 
 Hello, I am Gabriel Nathaniel Swortwood a computer science major, for my capstone (Computer Science 499) and the whole of the computer science program I have gained valuable insights and skills relating to what I have learned. These skills list the following: operating systems, software development, algorithms/data structures, networking, security, database management, object-orientated programming, software testing with quality assurance, and more.
 
@@ -193,7 +193,7 @@ Developing a security mindset is of utmost importance in the computer science fi
 
       The code uses try-catch blocks to handle exceptions and provides informative error messages, reflecting a security-conscious approach.
 
-##### **2. Summary:**
+##### **Summary:**
 
 The artifacts presented in my ePortfolio collectively showcase the full range of my computer science talents and abilities. They highlight my growth in collaborating within a team, communicating technical concepts effectively, designing efficient data structures and algorithms, developing professional-quality software solutions, and maintaining a security-oriented approach in all endeavors.
 
