@@ -12,7 +12,7 @@ Specifically speaking with the Virtual Memory Manager simulation, I have shown s
 
 Also, I've added the "original" unedited files of the project to compare side by side if needed. It is labeled "Virtual Memory Manager (original)" for those who want to compared the changes from the old vs new files.
 
-**Collaborating in a team environment:** 
+## **Collaborating in a team environment:**
 
 One of the crucial skills I have developed is the ability to collaborate effectively in a team environment. In a project that focused on building collaborative environments in computer science, I was able to identify strategies for enabling diverse audiences to support organizational decision-making. Sadly, I didn't really have any peers to work with the project, but I do leave the code as an open repository for those to commit, comment, and converse about what needs improvement.
 
@@ -54,7 +54,7 @@ One of the crucial skills I have developed is the ability to collaborate effecti
     
 
 
-**Communicating to stakeholders:** 
+## **Communicating to stakeholders:** 
 
 Clear and coherent communication is essential in any professional setting. Throughout the program, I honed my oral, written, and visual communication skills. An example of this is demonstrated in my code documentation improvements, where I provided comprehensive explanations of code functionality and purpose, making it easier for stakeholders to understand the code and its implications within larger projects.
 
@@ -87,7 +87,7 @@ Clear and coherent communication is essential in any professional setting. Throu
        During the process and development of modifications for the program, I tried to develop a security concern mindset for the files, suggest improvements, and explain concepts while demonstrating subject        matter.
 
 
-**Data structures and algorithms:**
+## **Data structures and algorithms:**
 
 Mastery of data structures and algorithms is fundamental to solving complex computing problems. In my coursework, I successfully designed and evaluated computing solutions that addressed specific problems using algorithmic principles. I made significant improvements to code readability, error handling, and organization, thereby managing the trade-offs involved in design choices.
 
@@ -116,7 +116,7 @@ Mastery of data structures and algorithms is fundamental to solving complex comp
     While it isn't discussed, the code quality and usage of design patterns (such as using classes for encapsulation) suggest an understanding of best practices.
 
 
-**Software engineering and database:**
+## **Software engineering and database:**
 
 The program also equipped me with software engineering and database skills. Through a virtual memory simulator project, I demonstrated my ability to implement computer solutions that deliver value and accomplish industry-specific goals. Additionally, I developed a class called MongoDBManager to handle interactions with a MongoDB database, showcasing my proficiency in database management and software design.
 
@@ -157,11 +157,11 @@ The program also equipped me with software engineering and database skills. Thro
        The headers of the programs files do indicate modifications, including performance, separation of concerns (for that of VM and MemoryManager), error handling, and more. These changes focus on creating        more robust code and structure for the program.
 
 
-**Security:**
+## **Security:**
 
 Developing a security mindset is of utmost importance in the computer science field. In my virtual memory simulator project, I prioritized security considerations, ensuring the program's integrity and privacy of data and resources. While the code showed good security practices, I remain vigilant about potential vulnerabilities and acknowledge the need for continuous improvement in this area.
 
-##### Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+## &Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources&
 
 ##### Does the student demonstrate the ability to address potential design flaws in software architecture during the requirements phase?**
 
